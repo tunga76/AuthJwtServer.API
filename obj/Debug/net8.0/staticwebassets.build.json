@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qsLiE/uUsy3lsVMfzPPjPprQiLJJkv3UuxCTaXlRXbA=",
+  "Source": "AuthJwtServer.API",
+  "BasePath": "_content/AuthJwtServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
